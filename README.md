@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basak</h1>
-<h3 align="center">A computer engineering student from Turkey</h3>
+<h3 align="center">Computer engineering student from Turkey</h3>
 
 - 🌱 I’m currently learning **html, css**
 
