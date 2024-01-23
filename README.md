@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basak</h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **basaktepeceng@gmail.com**
 
