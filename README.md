@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [e-commerce website](https://github.com/basaktepe/e-commerce)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **basaktepeceng@gmail.com**
 
