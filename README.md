@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basaktepe&label=Profile%20views&color=0e75b6&style=flat" alt="basaktepe" /> </p>
 
-- 🔭 I’m currently working on [e-commerce website](https://github.com/basaktepe/e-commerce)
-
 - 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **basaktepeceng@gmail.com**
