@@ -8,7 +8,7 @@
 - 📫 How to reach me **basaktepeceng@gmail.com** 
 
 
-![Codewars](https://github.r2v.ch/codewars?user=basaktp&stroke=%23BB432C
+[![Codewars Badge](https://www.codewars.com/users/basaktp/badges/large)](https://www.codewars.com/users/basaktp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
